@@ -1,3 +1,3 @@
 # elso9B
-Ez az első sorunk
-Második sor
+Ez az első sorunk!
+Második sor!
